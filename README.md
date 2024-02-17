@@ -1,2 +1,2 @@
-# BrynMawrCollege
+# Deep Learning/LLMs
 
