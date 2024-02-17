@@ -1,2 +1,2 @@
-# DeepLearning/LLMs
+# NeuralNetworks
 
