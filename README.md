@@ -1,2 +1,2 @@
-# Deep Learning/LLMs
+# DeepLearning/LLMs
 
